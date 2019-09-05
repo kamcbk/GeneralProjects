@@ -2,9 +2,6 @@
 
 Hog is a small 2 player game where one uses simulated dice with a given set of rules. 
 
-## Getting Started
-
-Pull from this repo 
 
 ### Prerequisites
 
