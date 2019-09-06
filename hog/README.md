@@ -3,7 +3,7 @@
 
 <p align="center">
 <img src="https://github.com/kamcbk/GeneralProjects/blob/master/hog/HogGUI.png">
-<figcaption>Hog GUI in action!</figcaption>
+Hog GUI in action!
 </p>
 
 Hog is a small 2 player game where one uses simulated dice with a given set of rules: 
