@@ -4,7 +4,7 @@ A general list of projects done in school or independently.
 Over the past 5 years I've accumulated about +20 projects. My current TODO is to upload them onto this repository for record and reproducibility. Some of the projects you'll see here in the future include:
 
 * Using ML for an Ising Model (Physics)
-* Measuring the Radius of the Sun and the Moon (Astro)
+* Measuring the Radius of the Sun and the Moon 
 * Hollywood Diversity Dataset
 * Country vs Rap Song Classification
 
