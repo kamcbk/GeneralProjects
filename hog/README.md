@@ -7,7 +7,7 @@
 <p align="center">
 Hog GUI in action!
 </p>
-
+<br>
 Hog is a small 2 player game where one uses simulated dice with a given set of rules: 
 
 * Players roll a certain number of dice, up to 10, and the sum becomes the score for the turn.
@@ -42,9 +42,9 @@ See if you can beat it!
 
 ## Authors
 
-The actual game and a good chuck of the code (including the GUI) comes from one of the projects in UC Berkeley's CS61A course. Slight modeifications were done, however most of the game has come from the course. Kudos to the CS61A staff for making it.
+* The actual game and a good chuck of the code (including the GUI) comes from one of the projects in UC Berkeley's CS61A course. Slight modeifications were done, however most of the game has come from the course. Kudos to the CS61A staff for making it.
 
-Kevin Marroquin
+* Kevin Marroquin
 
 
 ## Acknowledgments
