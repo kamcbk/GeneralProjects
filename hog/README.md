@@ -8,6 +8,7 @@
 Hog GUI in action!
 </p>
 <br>
+### What is Hog?/Rules
 Hog is a small 2 player game where one uses simulated dice with a given set of rules: 
 
 * Players roll a certain number of dice, up to 10, and the sum becomes the score for the turn.
@@ -40,14 +41,14 @@ python hog_gui.py -f
 See if you can beat me/it!
 
 
-## Authors
+### Authors
 
 * The actual game and a good chuck of the code (including the GUI) comes from one of the projects in UC Berkeley's CS61A course. Slight modeifications were done, however most of the game has come from the course. Kudos to the CS61A staff for making it.
 
 * Kevin Marroquin
 
 
-## Acknowledgments
+### Acknowledgments
 
 * CS61A Staff
 * Paul Hilfinger
