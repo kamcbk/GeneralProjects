@@ -224,6 +224,12 @@ def both(f, g):
         return both(f(score0, score1), g(score0, score1))
     return say
 
+def announce_highest(num = 1):
+    """Return a blank function to run GUI
+
+    """
+    return
+
 
 #######################
 # Phase 3: Strategies #
