@@ -3,6 +3,8 @@
 
 <p align="center">
 <img src="https://github.com/kamcbk/GeneralProjects/blob/master/hog/HogGUI.png">
+</p>
+<p align="center">
 Hog GUI in action!
 </p>
 
