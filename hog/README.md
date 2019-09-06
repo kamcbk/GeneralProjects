@@ -2,6 +2,9 @@
 
 
 ![alt text](https://github.com/kamcbk/GeneralProjects/blob/master/hog/HogGUI.png)
+<p align="center">
+<img src="https://github.com/kamcbk/GeneralProjects/blob/master/hog/HogGUI.png">
+</p>
 
 Hog is a small 2 player game where one uses simulated dice with a given set of rules: 
 
