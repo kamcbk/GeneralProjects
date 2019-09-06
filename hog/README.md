@@ -1,5 +1,8 @@
 # Hog
 
+
+[alt text](https://github.com/kamcbk/GeneralProjects/blob/master/hog/HogGUI.png)
+
 Hog is a small 2 player game where one uses simulated dice with a given set of rules: 
 
 * Players roll a certain number of dice, up to 10, and the sum becomes the score for the turn.
