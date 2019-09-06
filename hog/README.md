@@ -20,8 +20,8 @@ Hog is a small 2 player game where one uses simulated dice with a given set of r
 
 ### Prerequisites
 
-Python +3.3
-A working terminal where you can run Python (Windows/non-terminal users can use GitBash: https://git-scm.com/downloads). (This way is my suggested way; there may be others but this is the only one I'm supporting)
+* Python +3.3
+* A working terminal where you can run Python (Windows/non-terminal users can use GitBash: https://git-scm.com/downloads). (This way is my suggested way; there may be others but this is the only one I'm supporting)
 
 
 
@@ -32,12 +32,12 @@ To start the game, in your terminal type
 ```
 python hog_gui.py
 ```
-And a window should pop open with the game. The rules themselves are set up automatically in the program. If you find youself alone, you can play against me (or rather, my algorithm) by typing 
+And a window should pop open with the game. The rules themselves are set up automatically in the program, so you and your opponent have to keep track of why the points scatter the way they do. If you find youself alone, you can play against me (or rather, my algorithm) by typing 
 
 ```
 python hog_gui.py -f
 ```
-See if you can beat it!
+See if you can beat me/it!
 
 
 ## Authors
