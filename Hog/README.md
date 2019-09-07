@@ -8,6 +8,7 @@
 Hog GUI in action!
 </p>
 <br>
+
 ### What is Hog?/Rules
 Hog is a small 2 player game where one uses simulated dice with a given set of rules: 
 
