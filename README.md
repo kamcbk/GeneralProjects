@@ -11,4 +11,4 @@ Over the past 5 years I've accumulated about +20 projects. My current TODO is to
 I'll also be uploading any current projects I work on presently.
 
 ### Discription of Projects
-* [Hog](https://github.com/kamcbk/GeneralProjects/tree/master/hog) - A small 2 player game using simulated dice with a twist.
+* [Hog](https://github.com/kamcbk/GeneralProjects/tree/master/Hog) - A small 2 player game using simulated dice with a twist.
