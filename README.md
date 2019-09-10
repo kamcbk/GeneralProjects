@@ -13,3 +13,4 @@ I'll also be uploading any current projects I work on presently.
 ### Discription of Projects
 * [Hog](https://github.com/kamcbk/GeneralProjects/tree/master/Hog) - A small 2 player game using simulated dice with a twist.
 * [Style Transfer](https://github.com/kamcbk/GeneralProjects/tree/master/Style%20Transfer) - A small tester project transfering style of imges to other images.
+* [SDSS Galaxies](https://github.com/kamcbk/GeneralProjects/tree/master/SDSS%20Galaxies) - An analysis using machine learning to determine galaxies in a dataset.
