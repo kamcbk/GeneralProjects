@@ -6,7 +6,7 @@
 <img src="https://github.com/kamcbk/GeneralProjects/blob/master/SDSS%20Galaxies/potw1818a.jpg">
 </p>
 <p align="center">
-*Monster in the Deep*, a picture from the Hubble telescope of a cluster of galaxies. 
+  <i>Monster in the Deep</i>, a picture from the Hubble telescope of a cluster of galaxies. 
 </p>
 <br>
 
