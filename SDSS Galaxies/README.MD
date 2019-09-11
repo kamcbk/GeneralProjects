@@ -3,7 +3,7 @@
 
 
 <p align="center">
-<img src="https://github.com/kamcbk/GeneralProjects/edit/master/SDSS%20Galaxies/potw1818a.jpg">
+<img src="https://github.com/kamcbk/GeneralProjects/blob/master/SDSS%20Galaxies/potw1818a.jpg">
 </p>
 <p align="center">
 *Monster in the Deep*, a picture from the Hubble telescope of a cluster of galaxies. 
