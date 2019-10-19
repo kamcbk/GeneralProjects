@@ -44,7 +44,7 @@ See if you can beat me/it!
 
 ### Authors
 
-* The actual game and a good chuck of the code (including the GUI) comes from one of the projects in UC Berkeley's CS61A course. Slight modeifications were done, however most of the game has come from the course. Kudos to the CS61A staff for making it.
+* The actual game and a good chuck of the code (including the GUI) comes from one of the projects in UC Berkeley's CS61A course. Slight modifications were made, however most of the game has come from the course. Kudos to the CS61A staff for making it.
 
 * Kevin Marroquin
 
