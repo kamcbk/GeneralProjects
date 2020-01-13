@@ -5,5 +5,5 @@ GitLite is a local version control system similar to Git. It's a mock version of
 
 ## Acknowledgments
 This project could not have been done without the following people:
-- [Philip Nilsson](https://blog.jayway.com/2013/03/03/git-is-a-purely-functional-data-structure/) and his data structure analysis of Git.
+- Philip Nilsson and his [data structure analysis of Git](https://blog.jayway.com/2013/03/03/git-is-a-purely-functional-data-structure/).
 - Joseph Moghadam, Paul Hilfinger, and the [CS61B](https://inst.eecs.berkeley.edu/~cs61b/fa19) course and staff.
