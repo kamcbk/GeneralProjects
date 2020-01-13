@@ -5,7 +5,7 @@
 <img src="https://github.com/kamcbk/GeneralProjects/blob/master/GitLite/logEx.png" width="40%" height="40%" >
 </p>
 <p align="center">
-  Performing `log` to observe commit history.
+  Performing log operation to observe commit history.
 </p>
 <br>
 
