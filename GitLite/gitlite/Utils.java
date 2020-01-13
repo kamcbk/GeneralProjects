@@ -202,7 +202,7 @@ class Utils {
         System.out.println("commit " + unitCommit.returnSha1ID());
 
         DateTimeFormatter formatter = DateTimeFormatter.ofPattern(
-                "E LLL MM HH:mm:ss yyyy Z").withZone(ZoneId.systemDefault());
+                "E LLL d HH:mm:ss yyyy Z").withZone(ZoneId.systemDefault());
 
         System.out.println("Date: " + formatter.format(unitCommit.returnTimeStamp()));
         System.out.println(unitCommit.returnCommitMsg());

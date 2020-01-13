@@ -1,5 +1,14 @@
 # GitLite: A Simple, Local, Version Control File Tracker
 
+
+<p align="center">
+<img src="https://github.com/kamcbk/GeneralProjects/blob/master/logEx.png" height="450" width="450">
+</p>
+<p align="center">
+  
+</p>
+<br>
+
 ## About
 GitLite is a local version control system similar to Git. It's a mock version of Git with only local features, using basic data structures, hence the Lite in GitLite. Several commands and functions from Git are included in GitLite, from *add* and *commit* to *branch* and *reset*. Other commands, like *find*, are brand new.
 
