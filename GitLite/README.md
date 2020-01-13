@@ -26,6 +26,11 @@ Below are the following commands supported for GitLite:
 * `checkout` - Depending on inputs, `checkout` either reverts a file back to it's most recent committed snapshot, reverts a file to a past commit, or changes the head of the current brach to be pointed to another branch.
 * `reset` - Resets current working directory back to a previous commit, deleting any unsaved work. 
 
+## Limitations
+* GitLite currently does not support nor track directories.
+* Mainly tested on txt files. Other files may vary.
+* GitLite reads on a byte level. Extremely large files may cause potential errors.
+
 ## Prerequesits
 * Install jar files in lib to JDKs
 * Currently using Java 12. May or may not work with other versions of Java. 
