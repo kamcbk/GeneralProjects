@@ -2,7 +2,7 @@
 
 
 <p align="center">
-<img src="https://github.com/kamcbk/GeneralProjects/blob/master/logEx.png" height="450" width="450">
+<img src="https://github.com/kamcbk/GeneralProjects/blob/master/GitLite/logEx.png" height="450" width="450">
 </p>
 <p align="center">
   
