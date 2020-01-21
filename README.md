@@ -8,6 +8,7 @@ Some of the projects you'll see here in the future include:
 * Using ML for an Ising Model (Physics)
 * Measuring the Radius of the Sun and the Moon 
 * Hollywood Diversity Dataset
+
 I'll also be uploading any current projects I work on presently.
 
 ### Discription of Projects
