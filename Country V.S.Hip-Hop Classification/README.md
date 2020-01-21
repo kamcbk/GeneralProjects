@@ -1,4 +1,4 @@
-# Country V.S. Hip-Hop Classification: A homemade kNN classification algorithm
+# Country V.S. Hip-Hop Classification: A Homemade kNN Classification Algorithm
 
 ## About
 This classification project distinguishing country and hip-hop music based on lyrics using datasets collected from http://millionsongdataset.com. Using a homemade kNN algorithm, I compare my results with [Sklearn](https://scikit-learn.org/stable/)'s kNN package. Though not entirely shown, through multiple trials, my analysis was able conclude that my algorithm produce similar results to Sklearn's. 
