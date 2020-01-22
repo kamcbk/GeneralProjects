@@ -1,7 +1,7 @@
 # Country V.S. Hip-Hop Classification: <br>A Homemade kNN Classification Algorithm.
 
 <p align="center">
-<img src="https://github.com/kamcbk/GeneralProjects/blob/master/Country%20V.S.%20Hip-Hop%20Classification/countryvshiphopimg.png", width="60%" height="60%">
+<img src="https://github.com/kamcbk/GeneralProjects/blob/master/Country%20V.S.%20Hip-Hop%20Classification/img/countryvshiphopimg.png", width="60%" height="60%">
 </p>
 <p align="center">
   Image credits go to <a href="https://www.brentwood-theatre.co.uk" >Brentwood Theater</a> and https://consequenceofsound.net
