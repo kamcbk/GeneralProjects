@@ -12,7 +12,7 @@ Some of the projects you'll see here in the future include:
 I'll also be uploading any current projects I work on presently.
 
 ### Discription of Projects
-* [Country V.S. Hip-Hop Classification](https://github.com/kamcbk/GeneralProjects/tree/master/Country%20V.S.Hip-Hop%20Classification) - A homemade kNN classification algorithm.
+* [Country V.S. Hip-Hop Classification](https://github.com/kamcbk/GeneralProjects/tree/master/Country%20V.S.%20Hip-Hop%20Classification) - A homemade kNN classification algorithm.
 * [GitLite](https://github.com/kamcbk/GeneralProjects/tree/master/GitLite) - A simple, local, version control file tracker.
 * [Hog](https://github.com/kamcbk/GeneralProjects/tree/master/Hog) - A small 2 player game using simulated dice with a twist.
 * [Style Transfer](https://github.com/kamcbk/GeneralProjects/tree/master/Style%20Transfer) - A small tester project transfering style of imges to other images.
