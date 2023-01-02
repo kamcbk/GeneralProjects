@@ -1,7 +1,7 @@
 # GeneralProjects
 A general list of projects done in school or independently. 
 
-Over the past 5 years I've accumulated about +20 projects. My current TODO is to upload them onto this repository for record and reproducibility. Most of these projects have been recreated and redone, often involving me starting from scratch. Thus, most of see has been made by me unless noted.
+I've accumulated about +20 projects from my time in undergrad. My current TODO is to upload them onto this repository for record and reproducibility, though there's no current timeline. Most of these projects have been recreated and redone, often involving me starting from scratch. Thus, most of see has been made by me unless noted.
 
 Some of the projects you'll see here in the future include:
 
